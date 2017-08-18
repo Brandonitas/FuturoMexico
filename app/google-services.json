@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "507347656142",
+    "firebase_url": "https://mexicounido-4e0bb.firebaseio.com",
+    "project_id": "mexicounido-4e0bb",
+    "storage_bucket": "mexicounido-4e0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507347656142:android:119ecee8d4d4e07e",
+        "android_client_info": {
+          "package_name": "brandon.example.com.mexicounido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507347656142-5pl6cch7qnqc2pntvufe8e26bfstl2od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brandon.example.com.mexicounido",
+            "certificate_hash": "59dd800997eb9148807938843bf004c4a0523ce7"
+          }
+        },
+        {
+          "client_id": "507347656142-1j7se3ptdua3c0q73qvinbk6q88mqrgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkx9czGpKwJYFkdMlzrUsaRfgM80F9dZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507347656142-1j7se3ptdua3c0q73qvinbk6q88mqrgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
